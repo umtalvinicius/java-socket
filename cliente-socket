@@ -1,4 +1,4 @@
-package com.manoelcampos.chat;
+package com.viniciusparente.chat;
 
 import java.io.IOException;
 import java.net.Socket;
